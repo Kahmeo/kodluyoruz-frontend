@@ -1,0 +1,24 @@
+ body {
+    text-align: center;
+} 
+
+.h1-head {
+    color: #1E3163;
+    text-align: center;
+}
+
+.h2-sec {
+    color: #2D46B9;
+}
+
+.h3-sec {
+    color: #F037A5;
+}
+
+.a-nav {
+    margin-left: 10px;
+} 
+
+.ul-sec {
+    list-style-position: inside;
+}
