@@ -1,5 +1,11 @@
+body {
+  background-color: black;
+  color : white;
+  font-family: "Roboto", sans-serif;
+}
+
 h2 {
-    color: red;
+    color: red;  /* css dosyasında açıklama satırım... */
     font-size: 74px;
   }
   p {
